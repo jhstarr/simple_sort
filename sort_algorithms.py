@@ -1,6 +1,8 @@
 
 # Jeff Starr, 28 September 2017
 
+
+# I created this to help my daughter with an assignment in her HS java class.
 # This code goes through a list comparing each number to the next and switching 
 # them if the bigger number comes first in the pair.  
 # It goes through the list multiple times 
