@@ -13,7 +13,7 @@
 # is the height of the next stack.  It is a list in python.
 
 
-stacks = [3,5,0,8,3,6,4]
+stacks = [3,5,0,8,3,6,4,10]
 
 temp = 0
 
